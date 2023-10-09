@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FitnessApp</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="nav_schedule">Schedule</string>
+    <string name="nav_completed">Completed</string>
+    <string name="nav_add">Add</string>
+    <string name="nav_chat">Chat</string>
+    <string name="nav_more">More</string>
+    <string name="unknown_trainer">Unknown</string>
+    <string name="title_clubschedule">Club Schedule</string>
+    <string name="more_title">More</string>
+    <string name="text_refresh_button">Refresh</string>
+</resources>
